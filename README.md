@@ -8,6 +8,9 @@
 <p align="center">
   <b>Trying to build useful things without breaking everything.</b><br>
 just a guy who likes networks, systems, code and coffee that sometimes works at the first try.
+
+Focused on network tools, distributed systems and low-level engineering.
+Building tools I wish existed.
 </p>
 
 <p align="center">
@@ -65,5 +68,5 @@ just a guy who likes networks, systems, code and coffee that sometimes works at 
 ---
 
 <div align="center">
-  <sub>Made with coffee ☕, Go routines, and too many logs.</sub>
+  <sub>Made with coffee ☕, Go routines 🌀, and too many logs.</sub>
 </div>
