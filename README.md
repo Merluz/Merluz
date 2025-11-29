@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <span style="color: #00f2ff;">Merlo</span> <img src="https://media.giphy.com/media/TDQOtnWgpGwTXgPCn9/giphy.gif" width="25px">
+# Hi there, I'm <span style="color: #00f2ff;">Merlo</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Security+Enjoyer;Tries+Not+To+Break+Production;Network+Nerd)](https://git.io/typing-svg)
 
@@ -38,21 +38,17 @@ just a guy who likes networks, systems, code and coffee that sometimes works at 
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Merluz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
-      alt="Merluz's GitHub Stats"
-      height="160"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats-merluzs-projects.vercel.app/api?username=Merluz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    alt="Merluz's GitHub Stats"
+    height="160"
+  />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merluz&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=lua"
-      alt="Top Languages"
-      height="160"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats-merluzs-projects.vercel.app/api/top-langs/?username=Merluz&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=lua"
+    alt="Top Languages"
+    height="160"
+  />
 
 </div>
 
@@ -72,5 +68,5 @@ just a guy who likes networks, systems, code and coffee that sometimes works at 
 ---
 
 <div align="center">
-  <sub>Made with coffee, Go routines, and too many logs.</sub>
+  <sub>Made with coffee ☕, Go routines, and too many logs.</sub>
 </div>
