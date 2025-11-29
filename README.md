@@ -38,17 +38,14 @@ just a guy who likes networks, systems, code and coffee that sometimes works at 
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats-merluzs-projects.vercel.app/api?username=Merluz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
-    alt="Merluz's GitHub Stats"
-    height="160"
-  />
 
-  <img
-    src="https://github-readme-stats-merluzs-projects.vercel.app/api/top-langs/?username=Merluz&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=lua"
-    alt="Top Languages"
-    height="160"
-  />
+<img
+  src="https://github-readme-stats-one-ochre-33.vercel.app/api/top-langs/?username=Merluz&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=lua,roff,blade,css"
+  alt="Top Languages"
+  height="160"
+/>
+
+
 
 </div>
 
