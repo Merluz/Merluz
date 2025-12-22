@@ -57,8 +57,6 @@ Building tools I wish existed.
 
 ## Featured Projects
 
-## Featured Projects
-
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Blackbird Sentinel](https://github.com/Merluz/Blackbird-Sentinel)** | Distributed network analysis system with multi-agent architecture, real-time WebSocket streaming, tenant management, capabilities control and full UI/mobile integration. Designed to work even behind CGNAT. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Networking](https://img.shields.io/badge/Networking-black?style=flat-square) ![Alpha Soon](https://img.shields.io/badge/Alpha-Coming_Soon-blue?style=flat-square)| 
