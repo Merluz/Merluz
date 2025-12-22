@@ -28,9 +28,9 @@ Building tools I wish existed.
 
 <div align="center">
 
-| **Core** | **Infrastructure** | **Tools** | **Frontend** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=cpp,go,python,java,php" /> | <img src="https://skillicons.dev/icons?i=linux,docker,aws,mongo,mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> | <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind" /> |
+| **Core** | **Infrastructure**  | **Frontend** |
+| :---: | :---:  | :---: |
+| <img src="https://skillicons.dev/icons?i=cpp,go,python,java,php" /> | <img src="https://skillicons.dev/icons?i=linux,docker,aws,mongo,mysql,postgres" />  | <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind" /> |
 
 </div>
 
@@ -57,12 +57,16 @@ Building tools I wish existed.
 
 ## Featured Projects
 
+## Featured Projects
+
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Blackbird Sentinel](https://github.com/Merluz/Blackbird-Sentinel)** | Distributed network analysis system with multi-agent architecture, real-time WebSocket streaming, tenant management, capabilities control and full UI/mobile integration. Designed to work even behind CGNAT. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Networking](https://img.shields.io/badge/Networking-black?style=flat-square) ![Alpha Soon](https://img.shields.io/badge/Alpha-Coming_Soon-blue?style=flat-square)| 
+| **[GSignal](https://github.com/Merluz/GSignal)** | High-performance, thread-safe event hub for Go with synchronous and asynchronous dispatch, context-aware subscriptions and graceful shutdown. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Concurrency](https://img.shields.io/badge/Concurrency-black?style=flat-square) ![PubSub](https://img.shields.io/badge/Pub--Sub-black?style=flat-square) ![Library](https://img.shields.io/badge/Library-black?style=flat-square) ![Public](https://img.shields.io/badge/Public_Repo-blue?style=flat-square) |
 | **[CPing](https://github.com/Merluz/CPing)** | Minimal ICMP tool written in modern C++20. Simple, clean and lightweight. | ![C++](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Low Level](https://img.shields.io/badge/Low_Level-black?style=flat-square) ![Public](https://img.shields.io/badge/Public_Repo-blue?style=flat-square) |
 | **[Clookin](https://github.com/Merluz/Clookin)** | ESP32-based attendance system with local storage, QR/NFC support, remote sync, and a full Java backend for management and reporting. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-black?style=flat-square) ![Status: In Development](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)|
 | **[HeadlessCart](https://github.com/Merluz/HeadlessCart)** | Headless WooCommerce backend with custom token system, session handling and fully cookie-free APIs for React frontends. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![API](https://img.shields.io/badge/API-black?style=flat-square) ![Public](https://img.shields.io/badge/Public_Repo-blue?style=flat-square) |
+
 
 
 ---
