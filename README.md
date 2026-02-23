@@ -24,18 +24,6 @@ Building tools I wish existed.
 
 ---
 
-## Tech Stack
-
-<div align="center">
-
-| **Core** | **Infrastructure**  | **Frontend** |
-| :---: | :---:  | :---: |
-| <img src="https://skillicons.dev/icons?i=cpp,go,python,java,php" /> | <img src="https://skillicons.dev/icons?i=linux,docker,aws,mongo,mysql,postgres" />  | <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind" /> |
-
-</div>
-
-
----
 
 ## GitHub Analytics
 
